@@ -57,6 +57,14 @@ end
 w
 
 
+
+----------------DHCP----------------
+ip dhcppool "név"
+netwok "ip cím + mask"
+
+
+
+
 # File:
 # Auth:Szabó Levente
 # Copyright: 2021, Szabó Levente
